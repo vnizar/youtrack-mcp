@@ -1,0 +1,10 @@
+[project]
+name = "youtrack"
+version = "0.1.0"
+description = "Sample project for client and server interaction."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.8.0",
+]
