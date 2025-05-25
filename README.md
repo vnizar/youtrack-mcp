@@ -27,7 +27,7 @@ A Python-based client application that integrates with YouTrack using the Model-
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:vnizar/youtrack-mcp.git
 cd youtrack
 ```
 
